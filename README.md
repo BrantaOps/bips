@@ -5,6 +5,7 @@
 </picture>
 
 
+# Branta as a Protocol
 Branta has the potential to evolve, over time, into a **protocol-level technology.**
 
 The parallel is Bitcoin Consensus.
@@ -14,9 +15,13 @@ The parallel is Bitcoin Consensus.
 
 In "Application Consensus" below, verification is done manually. In Bitcoin, nodes and miners handle this.
 
-A distributed runtime (Branta) that acts as a filter _before_ install can act as consensus.
+A distributed runtime (Branta) that acts as a filter _before_ install can act as consensus by aggregating signatures for relevant Bitcoin Software.
+
 Branta should adopt BrIP (Branta Improvement Proposals) to standardize this.
 
+
+
+# Branta as a Protocol
 
   <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/protocol.png">
   <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/Wallet%20Architecture.png">
