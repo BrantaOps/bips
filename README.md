@@ -17,7 +17,18 @@ In "Application Consensus" below, verification is done manually. In Bitcoin, nod
 
 A distributed runtime (Branta) that acts as a filter _before_ install can act as consensus by aggregating signatures for relevant Bitcoin Software.
 
-Branta should adopt BrIP (Branta Improvement Proposals) to standardize this.
+Branta should define a BIP set (Branta Improvement Proposals) to standardize this.
+
+# Initial BIP Set (Branta Improvement Proposal)
+1. Branta must remain FOSS & MIT Licensed
+2. Branta must define platform support
+3. Branta must define allowed user inputs (file types, UI/UX, possible OS automation)
+4. Branta must define user response (UI/UX, feedback noisy-ness)
+5. Branta must define process for aggregating new fingerprints
+6. Branta must define trusted source of truth for storing fingerprints (NOSTR?)
+
+
+   
 
 
 
