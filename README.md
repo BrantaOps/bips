@@ -5,8 +5,13 @@
 </picture>
 
 
+Branta has the potential to evolve, over time, into a protocol-level technology.
 
-<img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/protocol.png">
+The parallel is Bitcoin Consensus.
+* In Bitcoin, TXns are signed with private keys and confirmed by the network.
+* With Software applications, the installer is signed by the authors private PGP key and *should* be confirmed by the user.
+
+  <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/protocol.png">
   <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/Wallet%20Architecture.png">
   <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/FOSS.png">
   <img width="873" alt="Screen Shot 2024-02-04 at 10 55 43 AM" src="https://github.com/BrantaOps/design/blob/main/Universe.png">
